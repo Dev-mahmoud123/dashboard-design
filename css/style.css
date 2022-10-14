@@ -955,6 +955,12 @@ body {
   height: 15px;
   margin-right: 5px;
 }
+.friends-page .friend-box .friend-ifno span {
+  flex: 1;
+}
+.friends-page .friend-box .friend-ifno .brn-actions {
+  flex: 1;
+}
 /* End Friends Page */
 /* Start File page */
 .files {
